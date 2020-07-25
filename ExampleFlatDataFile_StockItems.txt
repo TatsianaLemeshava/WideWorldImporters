@@ -1,0 +1,10 @@
+StockItemName,SupplierID,UnitPackageID,OuterPackageID,LeadTimeDays,QuantityPerOuter,IsChillerStock,TaxRate,UnitPrice,TypicalWeightPerUnit,LastEditedBy
+USB food flash drive - donut,12,7,7,14,1,0,15.000,32.00,0.050,1
+USB food flash drive - shrimp cocktail,12,7,7,14,1,0,15.000,32.00,0.050,1
+USB food flash drive - fortune cookie,12,7,7,14,1,0,15.000,32.00,0.050,1
+USB food flash drive - dessert 10 drive variety pack,12,9,9,14,1,0,15.000,240.00,0.500,1
+DBA joke mug - mind if I join you? (White),5,7,7,12,1,0,15.000,13.00,0.150,1
+DBA joke mug - mind if I join you? (Black),5,7,7,12,1,0,15.000,13.00,0.150,1
+DBA joke mug - daaaaaa-ta (White),5,7,7,12,1,0,15.000,13.00,0.150,1
+DBA joke mug - daaaaaa-ta (Black),5,7,7,12,1,0,15.000,13.00,0.150,1
+DBA joke mug - you might be a DBA if (White),5,7,7,12,1,0,15.000,13.00,0.150,1

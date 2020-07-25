@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="WideWorldImporters.BusinessLogic.StockItem">
+    <Position X="4.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAIAAAAAAAAAAAAAAAACAAAAAABQAAAAMCAAAAAAAA=</HashCode>
+      <FileName>BusinessLogic\StockItem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WideWorldImporters.DataAccess.Connection">
+    <Position X="2.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DataAccess\Connection.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WideWorldImporters.DataAccess.DataAccess">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAQAAAAAIAJAAEAAAAAAMAAAAQAAAAAAA=</HashCode>
+      <FileName>DataAccess\DataAccess.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WideWorldImporters.GetStockItems">
+    <Position X="6.75" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAgBEECAAAAQAIAAgAAEAAggAQAHAAAAjAAIEAAA=</HashCode>
+      <FileName>GetStockItems.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WideWorldImporters.SelectFileToProcess">
+    <Position X="8.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEAAAIAAAAAAAAAAAAAAIAAAAAACAAAIAAAA=</HashCode>
+      <FileName>SelectFileToProcess.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EmptyTableException">
+    <Position X="2.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIEAAAKAAAAAA=</HashCode>
+      <FileName>ErrorHandling\EmptyTableException.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SqlExceptionHelper">
+    <Position X="0.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAABAAAAAAAAAAgQAAAAAAAgAAAAAAQg=</HashCode>
+      <FileName>ErrorHandling\SqlExceptionHelper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
