@@ -1,9 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<parameters>
-  <parameter name="ApplicationServices-Web.config Connection String" description="ApplicationServices Connection String used in web.config by the application to access the database." defaultValue="data source=(local);Integrated Security=true;AttachDBFilename=|DataDirectory|\aspnetdb.mdf" tags="SqlConnectionString">
-    <parameterEntry kind="XmlFile" scope="C:\\Projects\\WideWorldImporters\\WideWorldImporters\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='ApplicationServices']/@connectionString" />
-  </parameter>
-  <parameter name="WideWorldImportersConnectionString-Web.config Connection String" description="WideWorldImportersConnectionString Connection String used in web.config by the application to access the database." defaultValue="data source=(local);Integrated Security=true;Database=WideWorldImporters;" tags="SqlConnectionString">
-    <parameterEntry kind="XmlFile" scope="C:\\Projects\\WideWorldImporters\\WideWorldImporters\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='WideWorldImportersConnectionString']/@connectionString" />
-  </parameter>
-</parameters>
