@@ -7,11 +7,13 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace WideWorldImporters {
-    
-    
-    public partial class SelectFileToProcess {
-        
+namespace WideWorldImporters
+{
+
+
+    public partial class SelectFileToProcess
+    {
+
         /// <summary>
         /// fileread control.
         /// </summary>
@@ -20,7 +22,7 @@ namespace WideWorldImporters {
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.WebControls.FileUpload fileread;
-        
+
         /// <summary>
         /// upload control.
         /// </summary>
@@ -29,7 +31,7 @@ namespace WideWorldImporters {
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.WebControls.Button upload;
-        
+
         /// <summary>
         /// Label1 control.
         /// </summary>
@@ -38,5 +40,32 @@ namespace WideWorldImporters {
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.WebControls.Label Label1;
+
+        /// <summary>
+        /// lblStockItemsCount control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Label lblStockItemsCount;
+
+        /// <summary>
+        /// tblStoskItem control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Table tblStoskItem;
+
+        /// <summary>
+        /// Label2 control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Label Label2;
     }
 }
